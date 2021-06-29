@@ -7,6 +7,7 @@
  | --- | --- | --- |
  | Bert-base |	53.93%	|	53.2% |
  | Glove+RNN |	62.88%	|	43.6% |
+
 others : State-of-the-art accuracy using the same model to solve the task Scource from https://paperswithcode.com/sota.(The following is the same.)
 But 'others' in this table is the accuracy of SST-5. It's not the same dataset.
 ## Task-2： 文本匹配
