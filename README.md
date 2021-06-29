@@ -9,7 +9,7 @@
  | Glove+RNN |	62.88%	|	43.6% |
 
 ## Task-2： 文本匹配
-### Dataset： snli
+### Dataset： snli_1.0
 ### Result:
  | Model |	Accuracy	| Others |
  | --- | --- | --- |
