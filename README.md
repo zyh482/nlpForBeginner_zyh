@@ -24,7 +24,7 @@
  | Bert-base	| 92.39%	|	92.4% |
 
 ## Task-4: 古诗生成
-### Dataset: PoetryFromTang.txt
+### Dataset: PoetryFromTang.txt / poetry1000.json
 ### Result:
  | Model |	Train_PPL |	Valid_PPL	| Example |
  | ---| --- | --- | --- |
