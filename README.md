@@ -29,6 +29,7 @@
  | Model |	Train_PPL |	Valid_PPL	| Example |
  | ---| --- | --- | --- |
  | GPT-2 |  |  |  |
+ | GPT2-Chinese |  |  |  |
  | Seq2Seq |  |  |  |
  | GRU |  |  |  |
       
