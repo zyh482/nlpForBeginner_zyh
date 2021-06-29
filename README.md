@@ -3,9 +3,9 @@
 ## Task-1：文本分类
 ### Dataset： sentiment-analysis-on-movie-reviews
 ### Result：
-#### Model	Accuracy	Others
-#### Bert-base	53.93%		53.2%
-#### Glove	62.88%		43.6%
+ Model	Accuracy	Others <rb>
+ Bert-base	53.93%		53.2% <rb>
+ Glove	62.88%		43.6% <rb>
 
 ## Task-2： 文本匹配
 ### Dataset： snli
