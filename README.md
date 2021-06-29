@@ -6,7 +6,7 @@
  | Model | Accuracy |	Others |
  | --- | --- | --- |
  | Bert-base |	53.93%	|	53.2% |
- | Glove |	62.88%	|	43.6% |
+ | Glove+RNN |	62.88%	|	43.6% |
 
 ## Task-2： 文本匹配
 ### Dataset： snli
